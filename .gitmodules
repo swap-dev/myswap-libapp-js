@@ -3,4 +3,4 @@
 	url = https://github.com/swap-dev/myswap-libapp-cpp
 [submodule "mymonero-core-js"]
 	path = mymonero-core-js
-	url = https://github.com/myswap/myswap-core-js
+	url = https://github.com/swap-dev/myswap-core-js

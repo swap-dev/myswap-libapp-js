@@ -1,6 +1,6 @@
 [submodule "src/submodules/mymonero-libapp-cpp"]
 	path = src/submodules/mymonero-libapp-cpp
-	url = https://github.com/mymonero/mymonero-libapp-cpp
+	url = https://github.com/swap-dev/myswap-libapp-cpp
 [submodule "mymonero-core-js"]
 	path = mymonero-core-js
-	url = https://github.com/mymonero/mymonero-core-js
+	url = https://github.com/myswap/myswap-core-js
